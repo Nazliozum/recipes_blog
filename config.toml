@@ -8,7 +8,6 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
 googleAnalytics = "UA-139766367-1"
-disqusShortname = "localhost"
 
 [params]
 	subtitle = "Collect and created recipes (mostly vegetarian)"
