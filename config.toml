@@ -8,6 +8,7 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
 googleAnalytics = "UA-139766367-1"
+disqusShortname = "localhost"
 
 [params]
 	subtitle = "Collected and created recipes (mostly vegetarian)"
@@ -47,6 +48,11 @@ url = "https://github.com/nazliozum"
 name = "Twitter"
 icon = "twitter"
 url = "https://twitter.com/nazliozum"
+
+[[params.social]]
+name = "RSS"
+icon = "rss"
+url = "/index.xml"
 
 [taxonomies]
    tag = "tags"
