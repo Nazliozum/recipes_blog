@@ -3,8 +3,15 @@ languageCode = "en-us"
 title = "Ozum's Recipes"
 theme = "ezhil"
 
+pygmentsstyle = "vs"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+googleAnalytics = "UA-139766367-1"
+disqusShortname = "localhost"
+
 [params]
-	subtitle = "Recipes I have collected and created"
+	subtitle = "Collect and created recipes (mostly vegetarian)"
 	# Number of posts to show in recent posts list.
 	recentPostsCount = 10
 	# Content types which are excluded from recent posts and archive page.
@@ -41,11 +48,6 @@ url = "https://github.com/nazliozum"
 name = "Twitter"
 icon = "twitter"
 url = "https://twitter.com/nazliozum"
-
-[[params.social]]
-name = "RSS"
-icon = "rss"
-url = "/index.xml"
 
 [taxonomies]
    tag = "tags"
