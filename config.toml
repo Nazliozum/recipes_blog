@@ -10,7 +10,7 @@ pygmentscodefencesguesssyntax = true
 googleAnalytics = "UA-139766367-1"
 
 [params]
-	subtitle = "Collect and created recipes (mostly vegetarian)"
+	subtitle = "Collected and created recipes (mostly vegetarian)"
 	# Number of posts to show in recent posts list.
 	recentPostsCount = 10
 	# Content types which are excluded from recent posts and archive page.
